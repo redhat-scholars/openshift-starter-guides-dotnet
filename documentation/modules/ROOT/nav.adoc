@@ -45,7 +45,7 @@
 ifdef::lab[]
 * xref:nationalparks-{lab}.adoc[Nationalparks {lab-name} App]
 ** xref:nationalparks-{lab}.adoc#source_to_image[Background: Source-to-Image (S2I)]
-** xref:nationalparks-{lab}.adoc#creating_nodejs_application[Exercise: Creating a {lab-name} application]
+** xref:nationalparks-{lab}.adoc#creating_dotnet_application[Exercise: Creating a {lab-name} application]
 *** xref:nationalparks-{lab}.adoc#add_to_project[Add to Project]
 *** xref:nationalparks-{lab}.adoc#using_application_code_on_git_server[Using Application Code on a Git Server]
 *** xref:nationalparks-{lab}.adoc#build_code_on_openshift[Build the Code on OpenShift]
