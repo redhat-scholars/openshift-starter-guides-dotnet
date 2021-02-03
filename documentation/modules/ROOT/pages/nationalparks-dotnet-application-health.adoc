@@ -44,7 +44,7 @@ that unhealthy instances are restarted (if they fail the liveness checks).
 
 From the *Topology* view, click `nationalparks`. On the side panel, click the *Actions* dropdown menu and the select *Add Health Checks*.
 
-image::nationalparks-application-health-menu-dotnet.png[Add Health Checks]
+image::nationalparks-application-health-menu.png[Add Health Checks]
 
 Click to *Add Readiness Probe* and add in *Path* field: 
 
