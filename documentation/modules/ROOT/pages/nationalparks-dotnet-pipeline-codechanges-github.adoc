@@ -69,7 +69,7 @@ OCP::
 --
 From Topology, click to `el-nationalparks` Deployment, go into *Routes* section and and copy the *el-nationparks* Route URL.
 
-image::devops-pipeline-triggers-route.png[EventListener created]
+image::devops-pipeline-triggers-route-dotnet.png[EventListener created]
 --
 CRC::
 +
